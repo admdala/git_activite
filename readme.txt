@@ -10,5 +10,5 @@ Concerne la
 	- Gestion des offres de service permanentes
 	- Gestion des offres et demande de service ponctuelles
 	- La gestion de la contrepartie en temps d'un service
-	- ...
+	- Gestion de la comptabilité en euro
 	
