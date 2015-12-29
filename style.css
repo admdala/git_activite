@@ -26,3 +26,9 @@
 		color: #3fff;
 		width: 100%;
 	}
+	
+	.img-responsive {
+		display: block;
+		width: auto;
+		max-height: 80px;
+	}
