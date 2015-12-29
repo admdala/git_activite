@@ -1,0 +1,28 @@
+/* style.css                         */
+/* Git et GitHub - partie 2 Activité */
+
+	body {
+		font-family: 'Bitter', serif;
+		background-color: #eef;
+		color: #259;
+	}
+				
+	header{
+		margin: 0px 0;
+		max-width: 100%;
+		min-height:80px;
+		max-height: 330px;
+		background-color: #3ABA65; 
+		color: #3fff; 
+		/*font-family: "Helvetica Neue", Arial, Helvetica, "Nimbus Sans L", sans-serif;*/
+	}
+	
+	footer {
+		padding: 15px;
+		height: 50px;
+		position: absolute;
+		bottom: 0;
+		background-color: #3ABA65; 
+		color: #3fff;
+		width: 100%;
+	}
